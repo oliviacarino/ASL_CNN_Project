@@ -1,0 +1,8 @@
+asl/
+windows_asl/
+debug_locally/
+.ipynb_checkpoints/
+.readme_images/
+myenv.yml
+score.py
+ConfigureCluster.ipynb
