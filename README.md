@@ -4,7 +4,7 @@
 ## ⭐ Goals of Project:
     [x] Successfully run the project locally with acceptable performance
     [ ] Add functionality to store letters captured by webcam to stdout
-    [ ] Deploy the model
+    [x] Deploy the model
     [ ] Performance tuning
     
 ## Overview
