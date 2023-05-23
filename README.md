@@ -1,4 +1,4 @@
-# 🧠 ASL Detection with Computer Vision and a CNN (Keras) 🧠
+# 🧠 ASL Detection with Computer Vision and a CNN 🧠
 ### The goal of the model is to use CV and a 3-layer (this may increase or decrese) CNN to successfully identify all 26 letters of the English alphabet from real time video capture. A user will be able to show their computer's webcam any ASL-baesd letter and the model will be able to output the corresponding symbol to the terminal.
 
 ## ⭐ Goals of Project:
